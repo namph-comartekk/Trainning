@@ -1,0 +1,2 @@
+hôm  nay em đã hoàn thành cài đặt môi trường và tìm hiểu các cơ bản của js
+
